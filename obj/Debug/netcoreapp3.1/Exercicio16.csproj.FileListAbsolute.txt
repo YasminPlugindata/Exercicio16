@@ -1,0 +1,13 @@
+C:\Users\Yasmin Laiz\source\repos\Exercicio16\Exercicio16\bin\Debug\netcoreapp3.1\Exercicio16.exe
+C:\Users\Yasmin Laiz\source\repos\Exercicio16\Exercicio16\bin\Debug\netcoreapp3.1\Exercicio16.deps.json
+C:\Users\Yasmin Laiz\source\repos\Exercicio16\Exercicio16\bin\Debug\netcoreapp3.1\Exercicio16.runtimeconfig.json
+C:\Users\Yasmin Laiz\source\repos\Exercicio16\Exercicio16\bin\Debug\netcoreapp3.1\Exercicio16.runtimeconfig.dev.json
+C:\Users\Yasmin Laiz\source\repos\Exercicio16\Exercicio16\bin\Debug\netcoreapp3.1\Exercicio16.dll
+C:\Users\Yasmin Laiz\source\repos\Exercicio16\Exercicio16\bin\Debug\netcoreapp3.1\Exercicio16.pdb
+C:\Users\Yasmin Laiz\source\repos\Exercicio16\Exercicio16\obj\Debug\netcoreapp3.1\Exercicio16.csprojAssemblyReference.cache
+C:\Users\Yasmin Laiz\source\repos\Exercicio16\Exercicio16\obj\Debug\netcoreapp3.1\Exercicio16.AssemblyInfoInputs.cache
+C:\Users\Yasmin Laiz\source\repos\Exercicio16\Exercicio16\obj\Debug\netcoreapp3.1\Exercicio16.AssemblyInfo.cs
+C:\Users\Yasmin Laiz\source\repos\Exercicio16\Exercicio16\obj\Debug\netcoreapp3.1\Exercicio16.csproj.CoreCompileInputs.cache
+C:\Users\Yasmin Laiz\source\repos\Exercicio16\Exercicio16\obj\Debug\netcoreapp3.1\Exercicio16.dll
+C:\Users\Yasmin Laiz\source\repos\Exercicio16\Exercicio16\obj\Debug\netcoreapp3.1\Exercicio16.pdb
+C:\Users\Yasmin Laiz\source\repos\Exercicio16\Exercicio16\obj\Debug\netcoreapp3.1\Exercicio16.genruntimeconfig.cache
